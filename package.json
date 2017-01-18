@@ -42,7 +42,7 @@
     "@types/express-serve-static-core": "^4.0.36",
     "@types/method-override": "0.0.29",
     "@types/mime": "0.0.29",
-    "@types/mocha": "^2.2.32",
+    "@types/mocha": "^2.2.38",
     "@types/node": "^6.0.41",
     "@types/reflect-metadata": "0.0.5",
     "@types/serve-static": "^1.7.31",
